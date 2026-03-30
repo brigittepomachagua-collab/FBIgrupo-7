@@ -30,7 +30,7 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
 </div>
 <table>
   <tr>
-    <td width="150px"><img src="fotos/foto Andres Mateo Sunquillpa.jpeg" width="120px"></td>
+    <td width="150px"><img src="fotos/FOTO ANDRES SUNQUILLPA.jpeg" width="120px"></td>
     <td>
       <b>Mateo Suquillpa<b>  
       <br>Edad:  19
