@@ -100,6 +100,20 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
     </td>
   </tr>
 </table>
+---
+
+<table>
+  <tr>
+    <td width="150px"><img src="fotos/FOTO LALESKA QUINTANA.jpeg" width="120px"></td>
+    <td>
+      <b>integrante: Laleska Quintana
+      <br>Edad: 
+      <br>Hábito:  
+      <br><i>"Espero fortalecer mis habilidades para crear soluciones innovadoras a partir de la ciencia y el diseño."</i>  
+      <br><b>Rol:</b> <font color="brown">Logistica</font>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,20 +130,7 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
   </tr>
 </table>
 
----
 
-<table>
-  <tr>
-    <td width="150px"><img src="FOTOS/images_md_image_6.png" width="120px"></td>
-    <td>
-      <b>integrante: 
-      <br>Edad: 
-      <br>Hábito:  
-      <br><i>"lo que espero del curso"</i>  
-      <br><b>Rol:</b> <font color="brown">Logistica</font>
-    </td>
-  </tr>
-</table>
 
 ✨ **Compromiso del Grupo** 
 
