@@ -9,7 +9,7 @@
 
 📸 **Foto de Grupo** 
 <p align="center">
-  <img src="foto grupal.jpeg" alt="Foto de grupo" width="650"/>
+  <img src="fotos/FOTO GRUPAL.jpeg" alt="Foto de grupo" width="650"/>
 </p>
 
 👩‍🔬**Sobre nosotros**
