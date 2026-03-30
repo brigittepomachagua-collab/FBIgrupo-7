@@ -35,7 +35,7 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
       <b>Mateo Suquillpa<b>  
       <br>Edad:  19
       <br>Hábito:   Ver series
-      <br><i>"Aprobar"</i>  
+      <br><i>"Espero desarrollar la capacidad de crear proyectos innovadores que integren creatividad, ciencia y funcionalidad"</i>  
       <br><b>Rol:</b> <font color="blue">Lider </font>
     </td>
   </tr>
@@ -45,12 +45,12 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
 
 <table>
   <tr>
-    <td width="150px"><img src="FOTOS/images_md_image_2.png"  width="120px"></td>
+    <td width="150px"><img src="fotos/FOTO FRANK SEGUNDO SALAZAR.jpeg"  width="120px"></td>
     <td>
       <b>integrante: Frank Oliver Segundo Salazar  
       <br>Edad: 20
       <br>Hábito: Dormir
-      <br><i>"Divertirse"</i>  
+      <br><i>"Crear propuestas innovadoras que puedan tener un impacto real"</i>  
       <br><b>Rol:</b> <font color="green">Secretario</font>
     </td>
   </tr>
@@ -60,7 +60,7 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
 
 <table>
   <tr>
-    <td width="150px"><img src="FOTOS/images_md_image_3.png" width="120px"></td>
+    <td width="150px"><img src="fotos/foto FIORELLA SUAREZ.jpeg" width="120px"></td>
     <td>
       <b>integrante: Fiorella Suarez Ferro  
       <br>Edad: 19
@@ -75,12 +75,12 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
 
 <table>
   <tr>
-    <td width="150px"><img src="FOTOS/images_md_image_4.png" width="120px"></td>
+    <td width="150px"><img src="fotos/Foto Brigitte Pomachagua.png" width="120px"></td>
     <td>
       <b>integrante: Brigitte Pomachagua Campos
-      <br>Edad:   
-      <br>Hábito:  
-      <br><i>"lo que espera del curso"</i>  
+      <br>Edad:  19 
+      <br>Hábito:  Leer y ver peliculas
+      <br><i>"Idear, desarrollar y ejecutar proyectos innovadores,con un enfoque creativo y sostenible."</i>  
       <br><b>Rol:</b> <font color="red">Documentación</font>
     </td>
   </tr>
@@ -90,12 +90,12 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
 
 <table>
   <tr>
-    <td width="150px"><img src="FOTOS/images_md_image_5.png" width="120px"></td>
+    <td width="150px"><img src="fotos/FOTO NATHALY NORIEGA.jpeg" width="120px"></td>
     <td>
       <b>integrante: Jimena Nathaly Noriega Palomino
       <br>Edad: 
       <br>Hábito: 
-      <br><i>"Lo que espera del cuaro"</i>  
+      <br><i>"Espero poder desarrollar nuevos proyectos, aprender a convertir ideas en soluciones reales"</i>  
       <br><b>Rol:</b> <font color="orange">Organización</font>
     </td>
   </tr>
