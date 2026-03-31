@@ -122,9 +122,9 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
     <td width="150px"><img src="fotos/Foto Edgar Gonzales.jpeg" width="120px"></td>
     <td>
       <b>integrante: Edgar Gonzales 
-      <br>Edad: 
+      <br>Edad: 21
       <br>Hábito:  
-      <br><i>"lo que espero del curso"</i>  
+      <br><i>"Espero desarrollar mi pensamiento creativo para resolver problemas reales"</i>  
       <br><b>Rol:</b> <font color="brown">Logistica</font>
     </td>
   </tr>
